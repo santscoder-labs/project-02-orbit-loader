@@ -1,17 +1,29 @@
-# Project 02 — Orbit Loader
+# Project 02 — Orbit Loader  
+**PT-BR:**  
+Parte da coleção de microprojetos do **SantsCoder**, este projeto ensina a criar um **Orbit Loader** usando apenas CSS — com rotação suave, bordas animadas e glow.
 
-Este repositório faz parte da série de microprojetos do **SantsCoder**, trazendo animações curtas e modernas para iniciantes no Front-End.
+**EN:**  
+Part of the **SantsCoder** micro-project collection, this project teaches you how to create an **Orbit Loader** using only CSS — smooth rotation, animated borders, and a glow effect.
 
-Aqui você aprende a criar um **Orbit Loader** usando apenas CSS, com rotações suaves, bordas animadas e efeito glow.
+---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias / Technologies
 - HTML  
 - CSS  
 
-## ▶ Como usar
-1. Baixe ou clone este repositório  
-2. Abra `index.html` no navegador  
-3. Veja o loader em ação e personalize as cores e velocidades
+---
 
-## 📹 Vídeo no YouTube
+## ▶ Como usar (PT-BR)
+1. Baixe ou clone o repositório  
+2. Abra `index.html`  
+3. Personalize cores e velocidade da animação  
+
+## ▶ How to use (EN)
+1. Download or clone this repository  
+2. Open `index.html`  
+3. Customize colors and animation speed  
+
+---
+
+## 📹 Vídeo / Video  
 https://youtube.com/@santscoder404
